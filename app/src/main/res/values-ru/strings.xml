@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="too_much_coffee">Вы не можете заказать более 100 кружек кофе</string>
+    <string name="empty_order">Вы не можете оформить пустой заказ</string>
+    <string name="name">Имя</string>
+    <string name="toppings">Добавки</string>
+    <string name="whipped_cream">Взбитые сливки</string>
+    <string name="chocolate">Шоколад</string>
+    <string name="quantity">Количество</string>
+    <string name="order_summary">Ваш заказ</string>
+    <string name="order">заказать</string>
+    <string name="display_thanks">Спасибо! Ваш заказ скоро будет готов</string>
+    <string name="display_order">Вы заказали <xliff:g>%s</xliff:g> кофе</string>
+
+</resources>

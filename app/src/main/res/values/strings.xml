@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" translatable="false">Coffee to you</string>
+
+    <string name="too_much_coffee">You can not order more then 100 cups of coffee</string>
+    <string name="empty_order">You can not place an empty order</string>
+    <string name="name">Name</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="order_summary">order summary</string>
+    <string name="order">order</string>
+    <string name="display_thanks">Thanks! Your order will be ready soon</string>
+    <string name="display_order">
+        You ordered <xliff:g>%s</xliff:g> coffees
+    </string>
+
+</resources>
